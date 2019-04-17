@@ -10,6 +10,4 @@ In the project directory, you can run:
 
 <br />
 
-___
 > _This is reproduced from_ **Traversy Media's** \_tutorial.
-___
