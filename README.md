@@ -9,6 +9,7 @@ In the project directory, you can run:
 ### `npm install`
 
 <br />
+
 ___
 > _This is reproduced from_ **Traversy Media's** \_tutorial.
 ___
