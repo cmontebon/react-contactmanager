@@ -7,3 +7,5 @@
 In the project directory, you can run:
 
 ### `npm install`
+
+> _This is reproduced from_ **Traversy Media's** \_tutorial.
